@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=CengizGungor&show_icons=true">
 
 # Merhaba, ben Cengiz Güngör! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=”CengizGungor alt=“CengizGungor /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CengizGungor alt=CengizGungor/> </p>
 
 [![](https://img.shields.io/twitter/follow/cengizgngrrr?style=social)](https://www.twitter.com/cengizgngrrr)
 [![](https://img.shields.io/github/followers/CengizGungor?style=social)](https://www.github.com/CengizGungor)
@@ -13,6 +13,5 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)]()
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cengiz_gngr)
 [![Mail Badge](https://img.shields.io/badge/cengizgngrr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cengizgngrr@gmail.com)](mailto:cengizgngrr@gmail.com)
-
 
 
