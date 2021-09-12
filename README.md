@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @CengizGungor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=CengizGungor&show_icons=true">
 
-<!---
-CengizGungor/CengizGungor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Merhaba, ben Cengiz Güngör! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=”CengizGungor alt=“CengizGungor /> </p>
+
+[![](https://img.shields.io/twitter/follow/cengizgngrrr?style=social)](https://www.twitter.com/cengizgngrrr)
+[![](https://img.shields.io/github/followers/CengizGungor?style=social)](https://www.github.com/CengizGungor)
+
+
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")]()
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cengizgngrrr)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cengiz-güngör-b0b8a91b6/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)]()
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cengiz_gngr)
+[![Mail Badge](https://img.shields.io/badge/cengizgngrr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cengizgngrr@gmail.com)](mailto:cengizgngrr@gmail.com)
+
+
+
