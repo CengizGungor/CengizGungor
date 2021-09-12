@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=CengizGungor&show_icons=true">
 
 # Merhaba, ben Cengiz Güngör! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CengizGungor alt=CengizGungor/> </p>
+![](https://komarev.com/ghpvc/?username=CengizGungor)
 
 [![](https://img.shields.io/twitter/follow/cengizgngrrr?style=social)](https://www.twitter.com/cengizgngrrr)
 [![](https://img.shields.io/github/followers/CengizGungor?style=social)](https://www.github.com/CengizGungor)
